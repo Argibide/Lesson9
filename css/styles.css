@@ -1,0 +1,7 @@
+p, div {color:green;}
+.red-p {color: red;}
+.blue-p {color:blue;}
+p.blue-p > span {color: yellow;}
+strong span {color: pink;}
+[data-foo="bar"] {color: violet;}
+p:hover span {color: red;}
